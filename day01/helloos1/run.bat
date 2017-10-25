@@ -1,0 +1,2 @@
+copy helloos.img C:\Users\hp\Documents\GitHub\Hydrangea\day01\tolset\z_tools\qemu\fdimage0.bin
+C:\Users\hp\Documents\GitHub\Hydrangea\day01\tolset\z_tools\make.exe	-C C:\Users\hp\Documents\GitHub\Hydrangea\day01\tolset\z_tools\qemu

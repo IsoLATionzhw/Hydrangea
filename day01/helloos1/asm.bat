@@ -1,0 +1,1 @@
+C:\Users\hp\Documents\GitHub\Hydrangea\day01\tolset\z_tools\nask.exe helloos.nas helloos.img
