@@ -1,0 +1,1 @@
+C:\Users\hp\Desktop\OS11\OS\tolset\z_tools\imgtol.com w a: helloos.img

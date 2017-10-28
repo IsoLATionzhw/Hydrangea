@@ -1,0 +1,1 @@
+C:\Users\hp\Desktop\OS11\OS\tolset\z_tools\edimg.exe   imgin:C:\Users\hp\Desktop\OS11\OS\tolset\z_tools\fdimg0at.tek   wbinimg src:ipl.bin len:512 from:0 to:0   imgout:helloos.img

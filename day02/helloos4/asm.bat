@@ -1,0 +1,1 @@
+C:\Users\hp\Desktop\OS11\OS\tolset\z_tools\nask.exe ipl.nas ipl.bin ipl.lst
